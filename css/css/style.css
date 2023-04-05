@@ -614,7 +614,7 @@ a {
       -webkit-animation: finger 2s infinite;
       animation: finger 2s infinite; }
 
-@-webkit-keyframes intro {
+/* @-webkit-keyframes intro {
   0% {
     opacity: 0;
     -webkit-transform: translateY(40px);
@@ -632,9 +632,9 @@ a {
   100% {
     opacity: 1;
     -webkit-transform: translateY(0);
-    transform: translateY(0); } }
+    transform: translateY(0); } } */
 
-@-webkit-keyframes finger {
+/* @-webkit-keyframes finger {
   0% {
     opacity: 1; }
   100% {
@@ -648,7 +648,7 @@ a {
   100% {
     opacity: 0;
     -webkit-transform: translateY(20px);
-    transform: translateY(20px); } }
+    transform: translateY(20px); } } */
 
 .hero-slider-wrap {
   position: relative; }
@@ -1324,7 +1324,7 @@ figure.dotted-bg {
   .loader-portfolio.dark, .site-loader.dark {
     border: 0.3rem solid rgba(0, 0, 0, 0.3);
     border-top-color: #000; }
-
+/* 
 @-webkit-keyframes spin {
   to {
     -webkit-transform: rotate(360deg);
@@ -1333,7 +1333,7 @@ figure.dotted-bg {
 @keyframes spin {
   to {
     -webkit-transform: rotate(360deg);
-    transform: rotate(360deg); } }
+    transform: rotate(360deg); } } */
 
 .jarallax {
   position: relative;
