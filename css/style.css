@@ -1200,7 +1200,7 @@ figure.dotted-bg:before {
   right: -50px;
   width: 268px;
   height: 224px;
-  background-image: url("../images/dotted_light.png");
+  background-image: url("../images/dotted_light.webp");
   background-repeat: no-repeat;
 }
 
